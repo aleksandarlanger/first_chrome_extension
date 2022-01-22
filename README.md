@@ -6,7 +6,7 @@ It's a link saveing Chrome extension.
 
 You can deploy it and check it out! 
 
-1. Download the files
+1. Download the files, make sure they are unpacked.
 2. Go to chrome://extensions (make sure you have developer mode enabled)
 3. Select "Load Unpacked" 
 4. You should be able to see the extension within your extensions selection.
