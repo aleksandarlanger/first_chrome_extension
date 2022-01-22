@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  min-width: 500px;
+}
+
+main {
+  min-width: 500px;
+  margin: 0 auto;
+}
+
+ul {
+  margin-top: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-top: 5px;
+}
+
+li a {
+  color: #24a19c;
+}
+
+a {
+  text-decoration: none;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #24a19c;
+  box-sizing: border-box;
+}
+
+input:focus {
+  outline: none !important;
+  border-color: #24a19c;
+  box-shadow: 0 0 2px #719ece;
+}
+
+button {
+  background: #24a19c;
+  border: 2px solid #24a19c;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 150px;
+  margin-top: 10px;
+}
+
+button:hover,
+button:active {
+  background-color: #19726f;
+  background-position: 0 0;
+  color: whitesmoke;
+}
+button:active {
+  opacity: 0.5;
+}
+
+#delete-btn {
+  background: transparent;
+  border: 2px solid #24a19c;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #24a19c;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 14px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 150px;
+  margin-top: 10px;
+}
