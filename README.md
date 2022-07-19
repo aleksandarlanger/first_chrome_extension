@@ -2,7 +2,7 @@
 This project was part of the web development career path on Scrimba.  
 
 
-It's a link saveing Chrome extension. 
+It's a link saving Chrome extension. 
 
 You can deploy it and check it out! 
 
